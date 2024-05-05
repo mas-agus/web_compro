@@ -9,6 +9,11 @@ h1 {
     color: #333;
 }
 
+/* NIM: 23112617 */
+h1:hover {
+    color: #ffff00;
+}
+
 p {
     color: #666;
     text-align: center;
